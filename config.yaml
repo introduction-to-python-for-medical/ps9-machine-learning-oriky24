@@ -1,2 +1,2 @@
-path: knn_model.joblib
-features: ['Shimmer:APQ3', 'MDVP:Fo(Hz)']
+path: "model.joblib"
+features: ["Shimmer:APQ3", "MDVP:Fo(Hz)"]
