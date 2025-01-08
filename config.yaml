@@ -1,2 +1,2 @@
 path: knn_model.joblib
-features: ['bill_depth_mm', 'body_mass_g']
+features: ['Shimmer:APQ3', 'MDVP:Fo(Hz)']
