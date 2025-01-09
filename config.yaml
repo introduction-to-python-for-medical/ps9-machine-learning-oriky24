@@ -1,2 +1,2 @@
-path: "model.joblib"
+path: "knn_model (1).joblib"
 features: ["Shimmer:APQ3", "MDVP:Fo(Hz)"]
